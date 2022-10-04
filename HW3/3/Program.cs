@@ -62,10 +62,6 @@ namespace Palindrome
     }
     class Program
     {
-        static void Print(long palindrome)
-        {
-            
-        }
         static void Main(string[] args)
         {
             var myArray = new long[] { 4884, 1, 11, 3113, 8836886388 };
