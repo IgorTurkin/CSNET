@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreeSerialization", "TreeSerialization\TreeSerialization.csproj", "{CBF778D7-7CAA-4AE1-9855-FDF1B6604C0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBF778D7-7CAA-4AE1-9855-FDF1B6604C0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBF778D7-7CAA-4AE1-9855-FDF1B6604C0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBF778D7-7CAA-4AE1-9855-FDF1B6604C0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBF778D7-7CAA-4AE1-9855-FDF1B6604C0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5C63C39-0740-4BF8-BDED-9B8E074E1B32}
+	EndGlobalSection
+EndGlobal
